@@ -1,6 +1,6 @@
 {
   "data" : {
-    "aktif" : true,
+    "aktif" : false,
     "code" : 503,
     "message" : "Aplikasi telah di kunci otomatis !"
   }

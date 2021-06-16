@@ -1,5 +1,5 @@
 {
-        "aktif": false,
-        "message": "Aplikasi anda sudah di kunci",
-        "code": 403
+   "aktif": false,
+   "message": "Aplikasi anda sudah di kunci",
+   "code": 403
 }

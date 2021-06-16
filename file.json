@@ -1,6 +1,6 @@
 {
   "data" : {
-    "aktif" : false,
+    "aktif" : true,
     "message" : "Aplikasi anda sudah di kunci",
     "code"  : 403
   }
